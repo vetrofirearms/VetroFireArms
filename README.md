@@ -2,9 +2,9 @@ Vetro Firearms LLC is a company that specializes in the sales and manufacturing 
 83-06 Northern Blvd, Jackson Heights, NY 11372
 https://vetrofirearms.com
 Who is Vetro Firearms llc?
-Vetro Firearms LLC is a company that specializes in the manufacturing and sales of firearms and ammunition.
+<a href="https://vetrofirearms.com">Vetro Firearms LLC is a company that specializes in the manufacturing and sales of firearms and ammunition.</a>
 
-Vetro Firearms LLC - sales and manufacture of firearms and ammunition
+<a href="https://vetrofirearms.com/shop">Vetro Firearms LLC - sales and manufacture of firearms and ammunition</a>
 Founded by two brothers, Vetro Firearms has become one of the most trusted names in gunsmithing. Their products are made with precision and craftsmanship, ensuring that they will last for years to come. They offer a wide variety of guns ranging from handguns to rifles as well as accessories such as holsters, scopes, sights and more. In addition to their own line of firearms they also provide custom work such as trigger jobs or barrel threading services for those looking for something unique or specific needs met with their weapons system build-outs. 
 
 They also offer services such as safety and self defense , and customized and specialized training, which ranges from the basics to expert level training.
